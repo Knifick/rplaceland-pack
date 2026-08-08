@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "latest": "1.3.2",
-  "minSupported": "1.3.2",
+  "minSupported": "0.0.0",
   "publishedAt": "2026-08-08",
   "windows": {
     "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-1.3.2.exe",
