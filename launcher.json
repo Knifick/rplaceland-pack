@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "latest": "1.1.0",
-  "minSupported": "1.1.0",
+  "minSupported": "0.0.0",
   "notes": "• Плашка обновления лаунчера\n• Управление версиями из админ-панели",
   "publishedAt": "2026-08-08",
   "windows": {
