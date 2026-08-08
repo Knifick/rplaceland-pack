@@ -15,11 +15,11 @@
   "changelog": "",
   "news": [
     {
-      "id": "news-1786178818074",
-      "title": "Обновление QoL",
+      "id": "news-1786211594262",
+      "title": "Вайп завтра",
       "date": "2026-08-08",
-      "body": "Добавлен Create Connected\n\nИ Jane Doe из видеоигры ZZZ",
-      "image": "https://cdn.discordapp.com/attachments/1358472100578328747/1534962404851453982/image.png?ex=6a7802e3&is=6a76b163&hm=c521c9e94202399e5c8f90c5903e3531d3771e1879d38a066628a11e6d74a12d&"
+      "body": "Да-да",
+      "tag": "Анонс жеск"
     }
   ],
   "managedDirs": [
@@ -599,5 +599,9 @@
       "sha1": "c22fd73d34192c8f984f53f35ee584bfd30d8543",
       "size": 279123
     }
-  ]
+  ],
+  "server": {
+    "address": "mr2.joinserver.xyz",
+    "port": 25799
+  }
 }
