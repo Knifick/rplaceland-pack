@@ -1,0 +1,32 @@
+{
+  "name": "RplaceLand",
+  "packVersion": "2026.08.08-1",
+  "minecraft": "1.21.1",
+  "loader": { "type": "neoforge", "version": "21.1.248" },
+  "java": { "major": 21 },
+  "recommendedRam": 6144,
+  "minRam": 4096,
+  "changelog": "Первая версия сборки: Create и дополнения, Sable, Distant Horizons, оптимизация (Sodium, Lithium, FerriteCore, ModernFix).",
+  "managedDirs": ["mods"],
+  "onceFiles": [
+    "options.txt",
+    "servers.dat",
+    "sodium-options.json",
+    "sodium-extra-options.json",
+    "DistantHorizons.toml",
+    "entity_texture_features.json",
+    "entity_model_features.json",
+    "immediatelyfast.json"
+  ],
+  "extraJvmArgs": [],
+  "extraGameArgs": [],
+  "news": [
+    {
+      "id": "launch",
+      "title": "Лаунчер RplaceLand запущен",
+      "date": "2026-08-08",
+      "tag": "Анонс",
+      "body": "Теперь сборка ставится одной кнопкой: лаунчер сам скачает Minecraft 1.21.1, NeoForge и все моды, а при обновлениях догрузит только изменения.\n\nЕсли что-то пошло не так — откройте раздел «Консоль» и пришлите лог."
+    }
+  ]
+}
