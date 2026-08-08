@@ -1,6 +1,6 @@
 {
   "name": "RplaceLand",
-  "packVersion": "2026.08.08-1",
+  "packVersion": "2026.08.08-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -28,6 +28,14 @@
   "extraJvmArgs": [],
   "extraGameArgs": [],
   "news": [
+    {
+      "id": "news-1786212799173",
+      "title": "А ещё потом",
+      "date": "2026-08-08",
+      "body": "Ну короче там туда сюда да",
+      "tag": "Крупное обновление",
+      "link": "https://www.twitch.tv/"
+    },
     {
       "id": "news-1786211594262",
       "title": "Вайп завтра",
