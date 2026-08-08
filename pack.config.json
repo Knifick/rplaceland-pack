@@ -1,0 +1,39 @@
+{
+  "name": "RplaceLand",
+  "packVersion": "2026.08.08-1",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "neoforge",
+    "version": "21.1.248"
+  },
+  "java": {
+    "major": 21
+  },
+  "recommendedRam": 6144,
+  "minRam": 4096,
+  "changelog": "",
+  "managedDirs": [
+    "mods"
+  ],
+  "onceFiles": [
+    "options.txt",
+    "servers.dat",
+    "sodium-options.json",
+    "sodium-extra-options.json",
+    "DistantHorizons.toml",
+    "entity_texture_features.json",
+    "entity_model_features.json",
+    "immediatelyfast.json"
+  ],
+  "extraJvmArgs": [],
+  "extraGameArgs": [],
+  "news": [
+    {
+      "id": "news-1786177345654",
+      "title": "Обновление сборки",
+      "date": "2026-08-08",
+      "body": "Проверка публикации через админ-панель.\n\nВторой абзац.",
+      "tag": "Событие"
+    }
+  ]
+}

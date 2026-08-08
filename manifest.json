@@ -12,594 +12,590 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "Первая версия сборки: Create и дополнения, Sable, Distant Horizons, оптимизация (Sodium, Lithium, FerriteCore, ModernFix).",
+  "changelog": "",
   "news": [
     {
-      "id": "launch",
-      "title": "Лаунчер RplaceLand запущен",
+      "id": "news-1786177345654",
+      "title": "Обновление сборки",
       "date": "2026-08-08",
-      "tag": "Анонс",
-      "body": "Теперь сборка ставится одной кнопкой: лаунчер сам скачает Minecraft 1.21.1, NeoForge и все моды, а при обновлениях догрузит только изменения.\n\nЕсли что-то пошло не так — откройте раздел «Консоль» и пришлите лог."
+      "body": "Проверка публикации через админ-панель.\n\nВторой абзац.",
+      "tag": "Событие"
     }
   ],
   "managedDirs": [
     "mods"
-  ],
-  "onceFiles": [
-    "options.txt",
-    "servers.dat",
-    "sodium-options.json",
-    "sodium-extra-options.json",
-    "DistantHorizons.toml",
-    "entity_texture_features.json",
-    "entity_model_features.json",
-    "immediatelyfast.json"
   ],
   "extraJvmArgs": [],
   "extraGameArgs": [],
   "files": [
     {
       "path": "config/DistantHorizons.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__DistantHorizons.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e02cfae230-config__DistantHorizons.toml",
       "sha1": "e02cfae230061275cf39b54a1aaaf1f2126b979d",
       "size": 37068,
       "once": true
     },
     {
       "path": "config/aeronautics-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__aeronautics-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e01adc163a-config__aeronautics-server.toml",
       "sha1": "e01adc163a806d84330b7778e11acb0ce3d33678",
       "size": 3066
     },
     {
       "path": "config/copycats-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__copycats-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/85dca28804-config__copycats-client.toml",
       "sha1": "85dca288044ae0940f94102ec82ee810ffb3bc59",
       "size": 340
     },
     {
       "path": "config/copycats-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__copycats-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ff51da0faa-config__copycats-common.toml",
       "sha1": "ff51da0faadaec726600993bd5ade2fef8e26dc5",
       "size": 2165
     },
     {
       "path": "config/copycats-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__copycats-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1ece346a8a-config__copycats-server.toml",
       "sha1": "1ece346a8a95d1d5fb7b9a7ae569a14588cb5766",
       "size": 363
     },
     {
       "path": "config/create-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__create-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/421de5ea5e-config__create-client.toml",
       "sha1": "421de5ea5e5255b28219d47d4a89f0886c2314b2",
       "size": 4795
     },
     {
       "path": "config/create-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__create-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/eeb60a2beb-config__create-common.toml",
       "sha1": "eeb60a2bebe041d74118246f0353028f23c82242",
       "size": 153
     },
     {
       "path": "config/create-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__create-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/7e9b96b35e-config__create-server.toml",
       "sha1": "7e9b96b35e2f62ca7d25b583ad16f1ec9f037b36",
       "size": 16890
     },
     {
       "path": "config/createaddition-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__createaddition-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/fcdea5396f-config__createaddition-common.toml",
       "sha1": "fcdea5396f0e882437562d6a936a74ca71559350",
       "size": 6346
     },
     {
       "path": "config/createbigcannons-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__createbigcannons-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/87fbdca62b-config__createbigcannons-client.toml",
       "sha1": "87fbdca62b45cd42cdf5482a54b4c6654ef12e05",
       "size": 3754
     },
     {
       "path": "config/createbigcannons-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__createbigcannons-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e2b04e0d6e-config__createbigcannons-server.toml",
       "sha1": "e2b04e0d6e18d2cc39b16907f22085f827ec0c92",
       "size": 11776
     },
     {
       "path": "config/createcasing-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__createcasing-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/f74dae1a18-config__createcasing-common.toml",
       "sha1": "f74dae1a1870d24984a0481f16e1940c3d8bea2e",
       "size": 28589
     },
     {
       "path": "config/entity_model_features.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__entity_model_features.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/99c62970fb-config__entity_model_features.json",
       "sha1": "99c62970fbba2f747e648d9f7004a4426e9b422e",
       "size": 1207,
       "once": true
     },
     {
       "path": "config/entity_texture_features.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__entity_texture_features.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/0c6f24de03-config__entity_texture_features.json",
       "sha1": "0c6f24de039524572d381135891103ff4f3c4930",
       "size": 1421,
       "once": true
     },
     {
       "path": "config/entityculling.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__entityculling.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/06318afd00-config__entityculling.json",
       "sha1": "06318afd00ffe39369a814a689b78d9de15c9bea",
       "size": 2228
     },
     {
       "path": "config/ferritecore-mixin.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__ferritecore-mixin.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/117f758af3-config__ferritecore-mixin.toml",
       "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
       "size": 1603
     },
     {
       "path": "config/flywheel-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__flywheel-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/16e17067e3-config__flywheel-client.toml",
       "sha1": "16e17067e3426d88c81a69d39e7afa6a0bed9c48",
       "size": 637
     },
     {
       "path": "config/fml.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__fml.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9fca245331-config__fml.toml",
       "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
       "size": 1550
     },
     {
       "path": "config/immediatelyfast.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__immediatelyfast.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9005fdfb4e-config__immediatelyfast.json",
       "sha1": "9005fdfb4eeaa64cf158b244b263aa5347d03db0",
       "size": 1114,
       "once": true
     },
     {
       "path": "config/jei-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9144700176-config__jei-server.toml",
       "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
       "size": 324
     },
     {
       "path": "config/jei/blacklist.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__blacklist.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/a8a4458dce-config__jei__blacklist.json",
       "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
       "size": 19
     },
     {
       "path": "config/jei/ingredient-list-mod-sort-order.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__ingredient-list-mod-sort-order.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/f78733ac6e-config__jei__ingredient-list-mod-sort-order.ini",
       "sha1": "f78733ac6e9de4ef08d5fd0eada8861a909d99e1",
       "size": 172
     },
     {
       "path": "config/jei/ingredient-list-type-sort-order.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__ingredient-list-type-sort-order.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/19a5db05bc-config__jei__ingredient-list-type-sort-order.ini",
       "sha1": "19a5db05bca2bd56f55af89504017ad52501c4d4",
       "size": 78
     },
     {
       "path": "config/jei/jei-client.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__jei-client.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3c5b267c25-config__jei__jei-client.ini",
       "sha1": "3c5b267c25f04da85ffcca993a8345d5dafbae43",
       "size": 12480
     },
     {
       "path": "config/jei/jei-colors.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__jei-colors.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/46f80e4857-config__jei__jei-colors.ini",
       "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
       "size": 1362
     },
     {
       "path": "config/jei/jei-debug.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__jei-debug.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e76a74cd66-config__jei__jei-debug.ini",
       "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c",
       "size": 939
     },
     {
       "path": "config/jei/jei-mod-id-format.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__jei-mod-id-format.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/a717365910-config__jei__jei-mod-id-format.ini",
       "sha1": "a717365910e96765045d598e83bff986f84bbc54",
       "size": 626
     },
     {
       "path": "config/jei/recipe-category-sort-order.ini",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__jei__recipe-category-sort-order.ini",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/215fd77cce-config__jei__recipe-category-sort-order.ini",
       "sha1": "215fd77ccee778175dc893c47d2016afdfc65a19",
       "size": 1010
     },
     {
       "path": "config/lithium.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__lithium.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/38f2993a7d-config__lithium.properties",
       "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
       "size": 267
     },
     {
       "path": "config/modelfix-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__modelfix-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1b30c81122-config__modelfix-client.toml",
       "sha1": "1b30c811223251945b8593ecaa431f0c65fd9e3c",
       "size": 1383
     },
     {
       "path": "config/modernfix-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__modernfix-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/84439141a9-config__modernfix-common.toml",
       "sha1": "84439141a9dbc2f96212967ea8437d420d8d9c8e",
       "size": 105
     },
     {
       "path": "config/modernfix-mixins.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__modernfix-mixins.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/363b263796-config__modernfix-mixins.properties",
       "sha1": "363b263796d22b72e97e89072413e529bcd692ee",
       "size": 5491
     },
     {
       "path": "config/moonlight-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__moonlight-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/7fdda9094d-config__moonlight-client.toml",
       "sha1": "7fdda9094dda6ea770e3e9cb0ef1ec3ce24167be",
       "size": 2209
     },
     {
       "path": "config/moonlight-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__moonlight-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1f62002e06-config__moonlight-common.toml",
       "sha1": "1f62002e06c865342690eea17511a19503da3d5d",
       "size": 960
     },
     {
       "path": "config/neoforge-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__neoforge-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/b51515abb0-config__neoforge-client.toml",
       "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
       "size": 578
     },
     {
       "path": "config/neoforge-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__neoforge-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6b10e4debb-config__neoforge-common.toml",
       "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
       "size": 772
     },
     {
       "path": "config/neoforge-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__neoforge-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/536538f1f2-config__neoforge-server.toml",
       "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
       "size": 1177
     },
     {
       "path": "config/offroad-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__offroad-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ffcf430144-config__offroad-server.toml",
       "sha1": "ffcf430144dfb7acb9839fdfcc7cc97bc2922365",
       "size": 1167
     },
     {
       "path": "config/ponder-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__ponder-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/b502ba9ea9-config__ponder-client.toml",
       "sha1": "b502ba9ea972ce81ef602c964b3bc0bbd3401fd8",
       "size": 635
     },
     {
       "path": "config/ritchiesprojectilelib-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__ritchiesprojectilelib-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9247f13082-config__ritchiesprojectilelib-server.toml",
       "sha1": "9247f1308244803efa47430360d0fb07b8fb3fab",
       "size": 710
     },
     {
       "path": "config/sable-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3e3537c15a-config__sable-client.toml",
       "sha1": "3e3537c15a39ca1612447f3844d4fe261abf03a3",
       "size": 946
     },
     {
       "path": "config/sable-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/244d4c98d7-config__sable-common.toml",
       "sha1": "244d4c98d76f7a03afb6d731ae6150427f4c195f",
       "size": 2243
     },
     {
       "path": "config/sable_beyond/common.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable_beyond__common.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c5fbcd3242-config__sable_beyond__common.json",
       "sha1": "c5fbcd3242c466339281245c870ca6eb31989132",
       "size": 231
     },
     {
       "path": "config/sable_beyond/dynamic-mass.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable_beyond__dynamic-mass.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/d0ea083a65-config__sable_beyond__dynamic-mass.json",
       "sha1": "d0ea083a6516715e70df062f51e6d5cff889d50a",
       "size": 146
     },
     {
       "path": "config/sable_beyond/entity-mass.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable_beyond__entity-mass.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/857e234a30-config__sable_beyond__entity-mass.json",
       "sha1": "857e234a30259131b8eb5eef1bd56d2ff4f6c34d",
       "size": 559
     },
     {
       "path": "config/sable_beyond/neoforge-compatibility.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable_beyond__neoforge-compatibility.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/943b50ef31-config__sable_beyond__neoforge-compatibility.json",
       "sha1": "943b50ef318a8d130e189f695ab124d136a8f415",
       "size": 610
     },
     {
       "path": "config/sable_beyond/other.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sable_beyond__other.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9461191874-config__sable_beyond__other.json",
       "sha1": "9461191874ecac1eab77937f9cd06108d5b4d758",
       "size": 61
     },
     {
       "path": "config/simulated-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__simulated-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ab18703bfa-config__simulated-client.toml",
       "sha1": "ab18703bfa8de8df6bac639cfbb8892f27350067",
       "size": 1045
     },
     {
       "path": "config/simulated-server.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__simulated-server.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/987252f401-config__simulated-server.toml",
       "sha1": "987252f401c9ed893c7639894bb5c4a4b78f8fe8",
       "size": 7249
     },
     {
       "path": "config/sodium-extra-options.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sodium-extra-options.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1a58212e0f-config__sodium-extra-options.json",
       "sha1": "1a58212e0f224cd2cc0cb27446d13bf7b9b0ed9a",
       "size": 2137,
       "once": true
     },
     {
       "path": "config/sodium-extra.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sodium-extra.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e90b251422-config__sodium-extra.properties",
       "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
       "size": 360
     },
     {
       "path": "config/sodium-mixins.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sodium-mixins.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/5455463ee9-config__sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
       "size": 258
     },
     {
       "path": "config/sodium-options.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sodium-options.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/f94c57d0a9-config__sodium-options.json",
       "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48",
       "size": 762,
       "once": true
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sound_physics_remastered__occlusion.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/63e8843f24-config__sound_physics_remastered__occlusion.properties",
       "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
       "size": 4831
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sound_physics_remastered__reflectivity.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/95feb43eb6-config__sound_physics_remastered__reflectivity.properties",
       "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
       "size": 4713
     },
     {
       "path": "config/sound_physics_remastered/sound_rates.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sound_physics_remastered__sound_rates.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/485ad1136e-config__sound_physics_remastered__sound_rates.properties",
       "sha1": "485ad1136ecb8be267ddfb33d0ed8a70788ddd0a",
       "size": 71495
     },
     {
       "path": "config/sound_physics_remastered/soundphysics.properties",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__sound_physics_remastered__soundphysics.properties",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/d28f5f62ae-config__sound_physics_remastered__soundphysics.properties",
       "sha1": "d28f5f62aebcbe96ce0ad333b8cb8298776d20f8",
       "size": 5104
     },
     {
       "path": "config/supplementaries-client.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__supplementaries-client.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/a9a6047ac6-config__supplementaries-client.toml",
       "sha1": "a9a6047ac614dffd8efeab79b8cf4b7ffb293276",
       "size": 9308
     },
     {
       "path": "config/supplementaries-common.toml",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__supplementaries-common.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e26d9b8364-config__supplementaries-common.toml",
       "sha1": "e26d9b8364c96be058fc9c3d1aeee05b5dee1ba2",
       "size": 30658
     },
     {
       "path": "config/transition.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__transition.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/8b50cd4b99-config__transition.json",
       "sha1": "8b50cd4b9956dc3443acd38e47f80e23ff7712f5",
       "size": 97
     },
     {
       "path": "config/trender.json",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/config__trender.json",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1ecd2edb27-config__trender.json",
       "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
       "size": 47
     },
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/8fa17df26d-mods__BetterF3-11.0.3-NeoForge-1.21.1.jar",
       "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
       "size": 481646
     },
     {
       "path": "mods/Create Encased-1.21.1-1.9.0-ht3.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__Create_Encased-1.21.1-1.9.0-ht3.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/bc749c8ec3-mods__Create_Encased-1.21.1-1.9.0-ht3.jar",
       "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274",
       "size": 3110804
     },
     {
       "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/df25e8cfe0-mods__DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
       "size": 30207268
     },
     {
       "path": "mods/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__ImmediatelyFast-NeoForge-1.6.11_1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6594ea2759-mods__ImmediatelyFast-NeoForge-1.6.11_1.21.1.jar",
       "sha1": "6594ea2759455f4e135b9479f807bacf4b4b0b43",
       "size": 361795
     },
     {
+      "path": "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/cda7f6d1f8-mods__ParticleEffects-1.5.0_1.21.1_neoforge.jar",
+      "sha1": "cda7f6d1f8e164525b41fbb0899eb645c75fe3b9",
+      "size": 309141
+    },
+    {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__cloth-config-15.0.140-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c3e5733ba4-mods__cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
       "size": 1163890
     },
     {
       "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__copycats-3.0.4_mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6a11d5806b-mods__copycats-3.0.4_mc.1.21.1-neoforge.jar",
       "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f",
       "size": 1791747
     },
     {
       "path": "mods/create-1.21.1-6.0.10.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/0e97e49837-mods__create-1.21.1-6.0.10.jar",
       "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
       "size": 19123767
     },
     {
       "path": "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/a2b08963eb-mods__create-aeronautics-bundled-1.21.1-1.3.0.jar",
       "sha1": "a2b08963ebc9f331f52c626aebcd65013e100d69",
       "size": 33120013
     },
     {
       "path": "mods/createaddition-1.6.0.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__createaddition-1.6.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/87b539d41e-mods__createaddition-1.6.0.jar",
       "sha1": "87b539d41ed238e98b26c607c0c81a973323147e",
       "size": 1661802
     },
     {
       "path": "mods/createbigcannons-5.11.7+mc.1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__createbigcannons-5.11.7_mc.1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c90ee0b214-mods__createbigcannons-5.11.7_mc.1.21.1.jar",
       "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d",
       "size": 3771506
     },
     {
       "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__entity_model_features-3.2.4-1.21-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/fcc0d7cfee-mods__entity_model_features-3.2.4-1.21-neoforge.jar",
       "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
       "size": 567827
     },
     {
       "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__entity_texture_features_1.21-neoforge-7.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/56de40b237-mods__entity_texture_features_1.21-neoforge-7.1.jar",
       "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
       "size": 752334
     },
     {
       "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/420d0006db-mods__entityculling-neoforge-1.10.5-mc1.21.1.jar",
       "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
       "size": 1585287
     },
     {
       "path": "mods/ferritecore-7.0.3-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__ferritecore-7.0.3-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9563692efb-mods__ferritecore-7.0.3-neoforge.jar",
       "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
       "size": 121559
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__geckolib-neoforge-1.21.1-4.9.2.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/14c64013ca-mods__geckolib-neoforge-1.21.1-4.9.2.jar",
       "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86",
       "size": 630584
     },
     {
       "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__jei-1.21.1-neoforge-19.43.0.393.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3cb954a19c-mods__jei-1.21.1-neoforge-19.43.0.393.jar",
       "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
       "size": 1685121
     },
     {
       "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__lithium-neoforge-0.15.4_mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/97212e45c9-mods__lithium-neoforge-0.15.4_mc1.21.1.jar",
       "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
       "size": 774220
     },
     {
       "path": "mods/modelfix-1.21-1.10.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__modelfix-1.21-1.10.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/9608b1bff9-mods__modelfix-1.21-1.10.jar",
       "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117",
       "size": 47035
     },
     {
       "path": "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__modernfix-neoforge-5.27.20_mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/bc1a70e72e-mods__modernfix-neoforge-5.27.20_mc1.21.1.jar",
       "sha1": "bc1a70e72e7dba8a3ff41404765fdd03a7ac6575",
       "size": 599474
     },
     {
       "path": "mods/moonlight-1.21.1-3.3.2-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__moonlight-1.21.1-3.3.2-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/066461830c-mods__moonlight-1.21.1-3.3.2-neoforge.jar",
       "sha1": "066461830cba209098c70fde4c31c74ae8f64aed",
       "size": 2143736
     },
     {
       "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__player-animation-lib-forge-2.0.4_1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/05be8ddcc7-mods__player-animation-lib-forge-2.0.4_1.21.1.jar",
       "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
       "size": 203149
     },
     {
       "path": "mods/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__reeses-sodium-options-neoforge-2.2.3_mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/904f815b1f-mods__reeses-sodium-options-neoforge-2.2.3_mc1.21.1.jar",
       "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
       "size": 260876
     },
     {
       "path": "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__ritchiesprojectilelib-2.1.2_mc.1.21.1-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ec2e4996f8-mods__ritchiesprojectilelib-2.1.2_mc.1.21.1-neoforge.jar",
       "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
       "size": 76369
     },
     {
       "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/f3ba9a4971-mods__sable-neoforge-1.21.1-2.0.3.jar",
       "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756",
       "size": 12889000
     },
     {
       "path": "mods/sablebeyond-neoforge-1.21.1-v0.5.0.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sablebeyond-neoforge-1.21.1-v0.5.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6040db8c52-mods__sablebeyond-neoforge-1.21.1-v0.5.0.jar",
       "sha1": "6040db8c52ddd2fe6e9c266a52df8865107e4124",
       "size": 1290691
     },
     {
       "path": "mods/sablephysicscompat-1.3.0.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sablephysicscompat-1.3.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ca5753e923-mods__sablephysicscompat-1.3.0.jar",
       "sha1": "ca5753e923c501acf43ff0d2fcf09f32240504c3",
       "size": 25334
     },
     {
       "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sodium-extra-neoforge-0.9.3_mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3aaac77125-mods__sodium-extra-neoforge-0.9.3_mc1.21.1.jar",
       "sha1": "3aaac7712521b477acc73757459b3883c4e0bbda",
       "size": 465013
     },
     {
       "path": "mods/sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sodium-neoforge-0.8.13-beta.2_mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/af0f6e2863-mods__sodium-neoforge-0.8.13-beta.2_mc1.21.1.jar",
       "sha1": "af0f6e28638b1e6696d0501dd8496d230e9519ae",
       "size": 1292887
     },
     {
       "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/a5ac35ccb9-mods__sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
       "size": 202454
     },
     {
       "path": "mods/supplementaries-1.21.1-3.8.8-neoforge.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/mods__supplementaries-1.21.1-3.8.8-neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/4e66106d49-mods__supplementaries-1.21.1-3.8.8-neoforge.jar",
       "sha1": "4e66106d496a130f9d37824d30aaa8b494225b8f",
       "size": 13470208
     },
     {
       "path": "options.txt",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/options.txt",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/88ce55e023-options.txt",
       "sha1": "88ce55e023c54c976e3498391e79514cbe00e546",
       "size": 6107,
       "once": true
     },
     {
       "path": "resourcepacks/SodiumTranslations.zip",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-2026.08.08-1/resourcepacks__SodiumTranslations.zip",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c22fd73d34-resourcepacks__SodiumTranslations.zip",
       "sha1": "c22fd73d34192c8f984f53f35ee584bfd30d8543",
       "size": 279123
     }
