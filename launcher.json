@@ -1,11 +1,11 @@
 {
   "formatVersion": 1,
-  "latest": "1.1.0",
+  "latest": "1.2.0",
   "minSupported": "0.0.0",
-  "notes": "• Плашка обновления лаунчера\n• Управление версиями из админ-панели",
+  "notes": "Бубубу вот это всё",
   "publishedAt": "2026-08-08",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-1.1.0.exe",
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-1.2.0.exe",
     "sha256": "0667f4d4ef9a1d73a056be10c07c21250fd713571c70ea7c4d11d2043773359a",
     "size": 82279141
   }
