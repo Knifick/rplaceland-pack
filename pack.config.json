@@ -1,6 +1,6 @@
 {
   "name": "RplaceLand",
-  "packVersion": "2026.08.08-3",
+  "packVersion": "2026.08.08-1",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -29,11 +29,11 @@
   "extraGameArgs": [],
   "news": [
     {
-      "id": "news-1786177345654",
-      "title": "Обновление сборки",
+      "id": "news-1786178818074",
+      "title": "Обновление QoL",
       "date": "2026-08-08",
-      "body": "Проверка публикации через админ-панель.\n\nВторой абзац.",
-      "tag": "Событие"
+      "body": "Добавлен Create Connected\n\nИ Jane Doe из видеоигры ZZZ",
+      "image": "https://cdn.discordapp.com/attachments/1358472100578328747/1534962404851453982/image.png?ex=6a7802e3&is=6a76b163&hm=c521c9e94202399e5c8f90c5903e3531d3771e1879d38a066628a11e6d74a12d&"
     }
   ]
 }
