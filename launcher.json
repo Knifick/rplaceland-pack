@@ -2,11 +2,11 @@
   "formatVersion": 1,
   "latest": "1.2.0",
   "minSupported": "0.0.0",
-  "notes": "Бубубу вот это всё",
+  "notes": "• Кнопка обновления новостей\n• Понятное сообщение, пока идёт одобрение Microsoft",
   "publishedAt": "2026-08-08",
   "windows": {
     "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-1.2.0.exe",
-    "sha256": "0667f4d4ef9a1d73a056be10c07c21250fd713571c70ea7c4d11d2043773359a",
-    "size": 82279141
+    "sha256": "044ef9650d9460fa7ee1577f46b86dcb713f14a870609e94adad0d0ed9bfccef",
+    "size": 82279302
   }
 }
