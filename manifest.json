@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "RplaceLand",
-  "packVersion": "2026.08.09-1",
+  "packVersion": "2026.08.09-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -12,7 +12,7 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "Обновление клиентских модов",
+  "changelog": "Обновление скинов",
   "news": [
     {
       "id": "news-1786212799173",
@@ -419,6 +419,12 @@
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/bc749c8ec3-mods__Create_Encased-1.21.1-1.9.0-ht3.jar",
       "sha1": "bc749c8ec3ad4fef7d5a052c904008971158f274",
       "size": 3110804
+    },
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.0.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ab8dd841ca-mods__CustomSkinLoader_Universal-15.0.1.jar",
+      "sha1": "ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a",
+      "size": 218215
     },
     {
       "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",

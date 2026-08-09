@@ -1,6 +1,6 @@
 {
   "name": "RplaceLand",
-  "packVersion": "2026.08.09-1",
+  "packVersion": "2026.08.09-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -11,7 +11,7 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "Обновление клиентских модов",
+  "changelog": "Обновление скинов",
   "managedDirs": [
     "mods"
   ],
