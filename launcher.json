@@ -1,12 +1,13 @@
 {
   "formatVersion": 1,
-  "latest": "1.4.0",
-  "minSupported": "1.4.0",
-  "notes": "Улучшены новости, гардероб",
-  "publishedAt": "2026-08-08",
+  "latest": "0.5.0",
+  "minSupported": "0.5.0",
+  "exact": true,
+  "notes": "Сброс нумерации",
+  "publishedAt": "2026-08-09",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-1.4.0.exe",
-    "sha256": "b1c2ae6148eeceb6dc39ca24d3449607bab6dcc620142a38334ff898658281aa",
-    "size": 82296019
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLand-Setup-0.5.0.exe",
+    "sha256": "44f3a7ae94bbd99df0dc001e8f77ca993c8689a765f6219f7dda856de825b3be",
+    "size": 82540029
   }
 }
