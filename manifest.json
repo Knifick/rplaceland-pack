@@ -12,15 +12,8 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "",
+  "changelog": "Обновление клиентских модов",
   "news": [
-    {
-      "id": "news-1786211594262",
-      "title": "Вайп завтра",
-      "date": "2026-08-08",
-      "body": "Да-да",
-      "tag": "Анонс жеск"
-    },
     {
       "id": "news-1786212799173",
       "title": "А ещё потом",
@@ -28,6 +21,13 @@
       "body": "Ну короче там туда сюда да",
       "tag": "Крупное обновление",
       "link": "https://www.twitch.tv/"
+    },
+    {
+      "id": "news-1786211594262",
+      "title": "Вайп завтра",
+      "date": "2026-08-08",
+      "body": "Да-да",
+      "tag": "Анонс жеск"
     }
   ],
   "managedDirs": [
@@ -439,10 +439,40 @@
       "size": 309141
     },
     {
+      "path": "mods/azimuth-1.4.3.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/8d69e15053-mods__azimuth-1.4.3.jar",
+      "sha1": "8d69e1505346d6f7108db2f9d191e6fdea516e96",
+      "size": 143479
+    },
+    {
+      "path": "mods/bits_n_bobs-2.1.15-beta.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6b2d5ee0f1-mods__bits_n_bobs-2.1.15-beta.jar",
+      "sha1": "6b2d5ee0f19918387a581e041ee0748af6990473",
+      "size": 2768502
+    },
+    {
+      "path": "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/ac2c09021e-mods__chat_heads-0.15.5-neoforge-1.21.jar",
+      "sha1": "ac2c09021ea041df6a5c30cef04862f4428edbe3",
+      "size": 91201
+    },
+    {
       "path": "mods/cloth-config-15.0.140-neoforge.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c3e5733ba4-mods__cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
       "size": 1163890
+    },
+    {
+      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/33f3f49767-mods__colorwheel-neoforge-1.2.9_mc1.21.1.jar",
+      "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
+      "size": 398004
+    },
+    {
+      "path": "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/0e63780e5b-mods__colorwheel_patcher-neoforge-1.0.5_mc1.21.1.jar",
+      "sha1": "0e63780e5b8af294bf58609ac866b9866ab9537b",
+      "size": 210569
     },
     {
       "path": "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
@@ -475,6 +505,30 @@
       "size": 3771506
     },
     {
+      "path": "mods/emi-1.1.24+1.21.1+neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3fd494b370-mods__emi-1.1.24_1.21.1_neoforge.jar",
+      "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+      "size": 1111538
+    },
+    {
+      "path": "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/26e3f99829-mods__emi_ores-1.3_1.21.1_neoforge.jar",
+      "sha1": "26e3f998295bae5178530d4bb217e824a2637121",
+      "size": 116663
+    },
+    {
+      "path": "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/0afecce68c-mods__emiffect-neoforge-2.1.6_mc1.21.1.jar",
+      "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
+      "size": 38160
+    },
+    {
+      "path": "mods/emixx-2.1.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/e7b9188675-mods__emixx-2.1.0.jar",
+      "sha1": "e7b9188675a1acfe6b7132cab2f941a3f2766208",
+      "size": 136465
+    },
+    {
       "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/fcc0d7cfee-mods__entity_model_features-3.2.4-1.21-neoforge.jar",
       "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
@@ -505,10 +559,28 @@
       "size": 630584
     },
     {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1bd129cf7b-mods__iris-neoforge-1.8.14-beta.1_mc1.21.1.jar",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "size": 2540723
+    },
+    {
       "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/3cb954a19c-mods__jei-1.21.1-neoforge-19.43.0.393.jar",
       "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
       "size": 1685121
+    },
+    {
+      "path": "mods/kotlinforforge-5.12.0-all.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/d10d062caf-mods__kotlinforforge-5.12.0-all.jar",
+      "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+      "size": 7279264
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/7d2e36037c-mods__lambdynamiclights-4.8.10_1.21.1.jar",
+      "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092",
+      "size": 2022585
     },
     {
       "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -589,6 +661,12 @@
       "size": 202454
     },
     {
+      "path": "mods/struts-1.3.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/354d494b66-mods__struts-1.3.0.jar",
+      "sha1": "354d494b66010c2d9e44e63d46efca7ba6c0a97e",
+      "size": 215558
+    },
+    {
       "path": "mods/supplementaries-1.21.1-3.8.8-neoforge.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/4e66106d49-mods__supplementaries-1.21.1-3.8.8-neoforge.jar",
       "sha1": "4e66106d496a130f9d37824d30aaa8b494225b8f",
@@ -606,10 +684,208 @@
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/c22fd73d34-resourcepacks__SodiumTranslations.zip",
       "sha1": "c22fd73d34192c8f984f53f35ee584bfd30d8543",
       "size": 279123
+    },
+    {
+      "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/af656a33be-shaderpacks__ComplementaryUnbound_r5.8.1.zip",
+      "sha1": "af656a33be2cbd217ea08986ad2cdd76f6bbfe1c",
+      "size": 546928
+    },
+    {
+      "path": "shaderpacks/VanillAA.zip",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/6d603bade0-shaderpacks__VanillAA.zip",
+      "sha1": "6d603bade00b3f8ccb18939f74e29f27bdca97ad",
+      "size": 23014
+    },
+    {
+      "path": "shaderpacks/complementary-unbound.pw.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/1774e2a402-shaderpacks__complementary-unbound.pw.toml",
+      "sha1": "1774e2a402aa6c4184a6b20b3c0b5f64c1154a7f",
+      "size": 1628
+    },
+    {
+      "path": "shaderpacks/photon-shader.pw.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/be5482d991-shaderpacks__photon-shader.pw.toml",
+      "sha1": "be5482d991bbb362d57fd2eab00662e5dfcf860d",
+      "size": 1027
+    },
+    {
+      "path": "shaderpacks/photon_v1.3b.zip",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/d975d25c96-shaderpacks__photon_v1.3b.zip",
+      "sha1": "d975d25c9686de5f10e8b86c8518613cdf3f040a",
+      "size": 3800987
+    },
+    {
+      "path": "shaderpacks/vanillaa.pw.toml",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/953f981b9e-shaderpacks__vanillaa.pw.toml",
+      "sha1": "953f981b9e05a272adc25b6fa289ee109163fa3b",
+      "size": 599
     }
   ],
   "server": {
     "address": "mr2.joinserver.xyz",
     "port": 25799
-  }
+  },
+  "optionalMods": [
+    {
+      "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+      "sha1": "8fa17df26d3650416bc124be7a264bc1566a3b26",
+      "name": "BetterF3",
+      "description": "Better F3 for Minecraft NeoForge\nReplaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.\n\nThe creator would like to thank:\n- cominixo for creating the Fabric version of the mod\n- Nirewen for creating the icon"
+    },
+    {
+      "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
+      "name": "Distant Horizons",
+      "description": "This mod generates and renders simplified terrain beyond the normal view distance at a low performance cost. Allowing you to see much farther without turning your game into a slideshow."
+    },
+    {
+      "path": "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+      "sha1": "fcc0d7cfee5ace4dba159225edd151d90dd924b9",
+      "name": "Entity Model Features",
+      "description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing to you disable this to use a different model mod :)"
+    },
+    {
+      "path": "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+      "sha1": "56de40b237ff44dbf1bb68844e0f118607902684",
+      "name": "Entity Texture Features",
+      "description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support"
+    },
+    {
+      "path": "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+      "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
+      "name": "EntityCulling",
+      "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible."
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+      "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
+      "name": "Just Enough Items",
+      "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
+    },
+    {
+      "path": "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+      "sha1": "cda7f6d1f8e164525b41fbb0899eb645c75fe3b9",
+      "name": "Particle Effects",
+      "description": "Visual Fabric Mod that adds unique textured particles for every effect in vanilla Minecraft!"
+    },
+    {
+      "path": "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
+      "name": "Sound Physics Remastered",
+      "description": "Provides realistic sound attenuation, reverberation, and absorption through blocks."
+    },
+    {
+      "path": "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+      "sha1": "ac2c09021ea041df6a5c30cef04862f4428edbe3",
+      "name": "Chat Heads",
+      "description": "See who are you chatting with!\nThis mod adds player heads next to their chat messages."
+    },
+    {
+      "path": "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+      "sha1": "33f3f4976755d0b315d3853f2e2aad38e11825c2",
+      "name": "Colorwheel",
+      "description": "Allows you to use Iris Shaders with Flywheel"
+    },
+    {
+      "path": "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+      "sha1": "0e63780e5b8af294bf58609ac866b9866ab9537b",
+      "name": "Colorwheel Patcher",
+      "description": "Autopatch supported shaders to be compatible with Colorwheel"
+    },
+    {
+      "path": "mods/emi-1.1.24+1.21.1+neoforge.jar",
+      "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+      "name": "EMI",
+      "description": "A featureful and accessible item and recipe viewer"
+    },
+    {
+      "path": "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+      "sha1": "26e3f998295bae5178530d4bb217e824a2637121",
+      "name": "EMI Ores",
+      "description": "Easily view ore generation information from inside EMI."
+    },
+    {
+      "path": "mods/emixx-2.1.0.jar",
+      "sha1": "e7b9188675a1acfe6b7132cab2f941a3f2766208",
+      "name": "EMI++",
+      "description": ""
+    },
+    {
+      "path": "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+      "sha1": "0afecce68c1fa9e13ef46d4b20a67f65b19c9d8c",
+      "name": "EMIffect",
+      "description": "EMI addon that appends status effects in EMI and provides information about each status effect."
+    },
+    {
+      "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "name": "Iris",
+      "description": "Iris is a modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs."
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+      "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092",
+      "name": "LambDynamicLights",
+      "description": "The most feature-complete dynamic lighting mod."
+    }
+  ],
+  "profiles": [
+    {
+      "id": "profile-1786261969308",
+      "name": "Полная сборка",
+      "mods": [
+        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+        "mods/emi-1.1.24+1.21.1+neoforge.jar",
+        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+        "mods/emixx-2.1.0.jar",
+        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
+      ],
+      "description": "Стабильная и наиболее полная сборка для комфортной игры"
+    },
+    {
+      "id": "profile-1786262134186",
+      "name": "Минимальный набор для игры",
+      "mods": [
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar"
+      ],
+      "description": "Подходит для слабых устройств, только всё необходимое и минимальные улучшения"
+    },
+    {
+      "id": "profile-1786262353983",
+      "name": "Экспериментальная сборка🧪",
+      "mods": [
+        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+        "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+        "mods/emi-1.1.24+1.21.1+neoforge.jar",
+        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+        "mods/emixx-2.1.0.jar",
+        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+        "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+        "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+      ],
+      "description": "Используются шейдеры, возможны нестабильности"
+    }
+  ],
+  "defaultProfile": "profile-1786261969308"
 }

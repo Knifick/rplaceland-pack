@@ -11,7 +11,7 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "",
+  "changelog": "Обновление клиентских модов",
   "managedDirs": [
     "mods"
   ],
@@ -29,23 +29,100 @@
   "extraGameArgs": [],
   "news": [
     {
-      "id": "news-1786211594262",
-      "title": "Вайп завтра",
-      "date": "2026-08-08",
-      "body": "Да-да",
-      "tag": "Анонс жеск"
-    },
-    {
       "id": "news-1786212799173",
       "title": "А ещё потом",
       "date": "2026-08-08",
       "body": "Ну короче там туда сюда да",
       "tag": "Крупное обновление",
       "link": "https://www.twitch.tv/"
+    },
+    {
+      "id": "news-1786211594262",
+      "title": "Вайп завтра",
+      "date": "2026-08-08",
+      "body": "Да-да",
+      "tag": "Анонс жеск"
+    }
+  ],
+  "optionalMods": [
+    "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+    "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+    "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+    "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+    "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+    "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+    "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+    "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+    "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+    "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+    "mods/emi-1.1.24+1.21.1+neoforge.jar",
+    "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+    "mods/emixx-2.1.0.jar",
+    "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+    "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+  ],
+  "profiles": [
+    {
+      "id": "profile-1786261969308",
+      "name": "Полная сборка",
+      "mods": [
+        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+        "mods/emi-1.1.24+1.21.1+neoforge.jar",
+        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+        "mods/emixx-2.1.0.jar",
+        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
+      ],
+      "description": "Стабильная и наиболее полная сборка для комфортной игры"
+    },
+    {
+      "id": "profile-1786262134186",
+      "name": "Минимальный набор для игры",
+      "mods": [
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar"
+      ],
+      "description": "Подходит для слабых устройств, только всё необходимое и минимальные улучшения"
+    },
+    {
+      "id": "profile-1786262353983",
+      "name": "Экспериментальная сборка🧪",
+      "mods": [
+        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
+        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+        "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
+        "mods/emi-1.1.24+1.21.1+neoforge.jar",
+        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+        "mods/emixx-2.1.0.jar",
+        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
+        "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+        "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+      ],
+      "description": "Используются шейдеры, возможны нестабильности"
     }
   ],
   "server": {
     "address": "mr2.joinserver.xyz",
     "port": 25799
-  }
+  },
+  "defaultProfile": "profile-1786261969308"
 }
