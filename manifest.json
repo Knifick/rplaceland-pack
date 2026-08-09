@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "RplaceLand",
-  "packVersion": "2026.08.09-2",
+  "packVersion": "2026.08.09-3",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -732,6 +732,8 @@
     "address": "mr2.joinserver.xyz",
     "port": 25799
   },
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-f7cb415b0b.jpg",
+  "bannerColor": "#1b212b",
   "optionalMods": [
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",

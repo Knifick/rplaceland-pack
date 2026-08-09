@@ -1,6 +1,6 @@
 {
   "name": "RplaceLand",
-  "packVersion": "2026.08.09-2",
+  "packVersion": "2026.08.09-3",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -123,5 +123,14 @@
     "address": "mr2.joinserver.xyz",
     "port": 25799
   },
-  "defaultProfile": "profile-1786261969308"
+  "defaultProfile": "profile-1786261969308",
+  "bannerCrop": {
+    "x": 0,
+    "y": 0.3311171864100147,
+    "w": 1,
+    "h": 0.5
+  },
+  "bannerSha1": "f7cb415b0b2246d26d3f4647c647ae22fa3cf7a8",
+  "bannerColor": "#1b212b",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-f7cb415b0b.jpg"
 }
