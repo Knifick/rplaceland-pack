@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "name": "RplaceLand",
-  "packVersion": "2026.08.09-3",
+  "packVersion": "2026.08.10-1",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -716,8 +716,8 @@
     "address": "mr2.joinserver.xyz",
     "port": 25799
   },
-  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-141b50dcfb.jpg",
-  "bannerColor": "#2d3442",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-bd38c37183.jpg",
+  "bannerColor": "#8e584a",
   "optionalMods": [
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
@@ -748,12 +748,6 @@
       "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
       "name": "EntityCulling",
       "description": "This mod uses async path-tracing to hide Tiles/Entities that are not visible."
-    },
-    {
-      "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-      "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
-      "name": "Just Enough Items",
-      "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
     },
     {
       "path": "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
@@ -820,6 +814,12 @@
       "sha1": "7d2e36037c88d24e40e0fdd4bf2bed9f8c2dd092",
       "name": "LambDynamicLights",
       "description": "The most feature-complete dynamic lighting mod."
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
+      "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
+      "name": "Just Enough Items",
+      "description": "JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance."
     }
   ],
   "profiles": [
