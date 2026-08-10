@@ -27,23 +27,7 @@
   ],
   "extraJvmArgs": [],
   "extraGameArgs": [],
-  "news": [
-    {
-      "id": "news-1786212799173",
-      "title": "А ещё потом",
-      "date": "2026-08-08",
-      "body": "Ну короче там туда сюда да",
-      "tag": "Крупное обновление",
-      "link": "https://www.twitch.tv/"
-    },
-    {
-      "id": "news-1786211594262",
-      "title": "Вайп завтра",
-      "date": "2026-08-08",
-      "body": "Да-да",
-      "tag": "Анонс жеск"
-    }
-  ],
+  "news": [],
   "optionalMods": [
     "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
     "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
@@ -66,7 +50,10 @@
   "profiles": [
     {
       "id": "profile-1786261969308",
-      "name": "Полная сборка",
+      "name": {
+        "ru": "Полная сборка",
+        "en": "Full pack"
+      },
       "mods": [
         "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
@@ -82,21 +69,33 @@
         "mods/emixx-2.1.0.jar",
         "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
       ],
-      "description": "Стабильная и наиболее полная сборка для комфортной игры"
+      "description": {
+        "ru": "Стабильная и рекомендованная сборка",
+        "en": "Stable and recommended pack"
+      }
     },
     {
       "id": "profile-1786262134186",
-      "name": "Минимальный набор для игры",
+      "name": {
+        "ru": "Минимальный набор",
+        "en": "Minimum set"
+      },
       "mods": [
         "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
         "mods/chat_heads-0.15.5-neoforge-1.21.jar",
         "mods/jei-1.21.1-neoforge-19.43.0.393.jar"
       ],
-      "description": "Подходит для слабых устройств, только всё необходимое и минимальные улучшения"
+      "description": {
+        "ru": "Подходит для слабых устройств, только всё необходимое",
+        "en": "Suitable for low‑end devices, only the essentials"
+      }
     },
     {
       "id": "profile-1786262353983",
-      "name": "Экспериментальная сборка🧪",
+      "name": {
+        "ru": "Экспериментальная сборка🧪",
+        "en": "Experimental pack 🧪"
+      },
       "mods": [
         "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
@@ -116,7 +115,10 @@
         "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
         "mods/lambdynamiclights-4.8.10+1.21.1.jar"
       ],
-      "description": "Используются шейдеры, возможны нестабильности"
+      "description": {
+        "ru": "Используются шейдеры, возможны нестабильности",
+        "en": "Shaders are used, instability may occur"
+      }
     }
   ],
   "server": {
@@ -126,11 +128,11 @@
   "defaultProfile": "profile-1786261969308",
   "bannerCrop": {
     "x": 0,
-    "y": 0.3311171864100147,
+    "y": 0.2991729092021114,
     "w": 1,
     "h": 0.5
   },
-  "bannerSha1": "f7cb415b0b2246d26d3f4647c647ae22fa3cf7a8",
-  "bannerColor": "#1b212b",
-  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-f7cb415b0b.jpg"
+  "bannerSha1": "141b50dcfbf6563e209fecf89889879538429c00",
+  "bannerColor": "#2d3442",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-141b50dcfb.jpg"
 }
