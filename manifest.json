@@ -716,8 +716,8 @@
     "address": "mr2.joinserver.xyz",
     "port": 25799
   },
-  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-bd38c37183.jpg",
-  "bannerColor": "#8e584a",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-19dd23c7f2.jpg",
+  "bannerColor": "#92958d",
   "optionalMods": [
     {
       "path": "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",

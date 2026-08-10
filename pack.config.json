@@ -128,11 +128,11 @@
   "defaultProfile": "profile-1786261969308",
   "bannerCrop": {
     "x": 0,
-    "y": 0,
+    "y": 0.3813159387088525,
     "w": 1,
-    "h": 0.2692622950819672
+    "h": 0.2840625
   },
-  "bannerSha1": "bd38c3718358b9c589e8c2dd8002af547a1760e1",
-  "bannerColor": "#8e584a",
-  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-bd38c37183.jpg"
+  "bannerSha1": "19dd23c7f28a5a68a6fd37f9bdc5e724efffb0e7",
+  "bannerColor": "#92958d",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-19dd23c7f2.jpg"
 }
