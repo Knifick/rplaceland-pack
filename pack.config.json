@@ -1,6 +1,6 @@
 {
-  "name": "RplaceLand",
-  "packVersion": "2026.08.10-1",
+  "name": "Rplace#Create",
+  "packVersion": "2026.08.16-1",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -11,7 +11,10 @@
   },
   "recommendedRam": 6144,
   "minRam": 4096,
-  "changelog": "Обновление скинов",
+  "changelog": {
+    "ru": "Rplace#Create!",
+    "en": "Rplace#Create!"
+  },
   "managedDirs": [
     "mods"
   ],
@@ -29,110 +32,169 @@
   "extraGameArgs": [],
   "news": [],
   "optionalMods": [
-    "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+    "mods/CleanF3-mc1.21.1-0.4.9.jar",
+    "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+    "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+    "mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
+    "mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+    "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+    "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+    "mods/smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
+    "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+    "mods/chatanimation-neoforge-1.3.1+mc1.21.jar",
+    "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+    "mods/Scribble-1.5.1+mc1.21-neoforge.jar",
+    "mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar",
+    "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+    "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+    "mods/BetterPingDisplay-1.21.1-1.1.jar",
+    "mods/waveycapes-neoforge-1.10.2-mc1.21.1.jar",
+    "mods/LongerChatHistory-neoforge-1.7.jar",
+    "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+    "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
+    "mods/cinematic_respawn-1.21.1-neoforge-1.3.0.jar",
+    "mods/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+    "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+    "mods/create_blueprinted-2.2.1.jar",
+    "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+    "mods/Stellar View-1.21.1-0.5.2-NeoForge.jar",
+    "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar",
     "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-    "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-    "mods/entity_texture_features_1.21-neoforge-7.1.jar",
-    "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-    "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
-    "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-    "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+    "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+    "mods/pfsable-1.0.jar",
+    "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
     "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
     "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
-    "mods/emi-1.1.24+1.21.1+neoforge.jar",
-    "mods/emi_ores-1.3+1.21.1+neoforge.jar",
-    "mods/emixx-2.1.0.jar",
-    "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
-    "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-    "mods/lambdynamiclights-4.8.10+1.21.1.jar",
-    "mods/jei-1.21.1-neoforge-19.43.0.393.jar"
+    "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+    "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+    "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+    "mods/constantmusic-neoforge-1.0.6+mc1.21.1.jar",
+    "mods/aeronautics_windsound-1.0.1.jar",
+    "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+    "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
   ],
   "profiles": [
     {
-      "id": "profile-1786261969308",
+      "id": "profile-1786905106357",
       "name": {
         "ru": "Полная сборка",
         "en": "Full pack"
       },
       "mods": [
-        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/CleanF3-mc1.21.1-0.4.9.jar",
+        "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+        "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+        "mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
+        "mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+        "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+        "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "mods/smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
+        "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+        "mods/chatanimation-neoforge-1.3.1+mc1.21.jar",
+        "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+        "mods/Scribble-1.5.1+mc1.21-neoforge.jar",
+        "mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar",
+        "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+        "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+        "mods/BetterPingDisplay-1.21.1-1.1.jar",
+        "mods/waveycapes-neoforge-1.10.2-mc1.21.1.jar",
+        "mods/LongerChatHistory-neoforge-1.7.jar",
+        "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+        "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
+        "mods/cinematic_respawn-1.21.1-neoforge-1.3.0.jar",
+        "mods/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+        "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+        "mods/create_blueprinted-2.2.1.jar",
+        "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+        "mods/Stellar View-1.21.1-0.5.2-NeoForge.jar",
+        "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar",
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
         "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
-        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
-        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
-        "mods/emi-1.1.24+1.21.1+neoforge.jar",
-        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
-        "mods/emixx-2.1.0.jar",
-        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar"
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar"
       ],
       "description": {
-        "ru": "Стабильная и рекомендованная сборка",
-        "en": "Stable and recommended pack"
+        "ru": "Рекомендуемая сборка, стабильно",
+        "en": "Recommended pack, stable"
       }
     },
     {
-      "id": "profile-1786262134186",
+      "id": "profile-1786908048665",
       "name": {
         "ru": "Минимальный набор",
-        "en": "Minimum set"
+        "en": "Minimalistic pack"
       },
       "mods": [
-        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
-        "mods/jei-1.21.1-neoforge-19.43.0.393.jar"
+        "mods/CleanF3-mc1.21.1-0.4.9.jar",
+        "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+        "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "mods/smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
+        "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+        "mods/chatanimation-neoforge-1.3.1+mc1.21.jar",
+        "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+        "mods/clientsort-neoforge-2.2.2+1.21.1.jar"
       ],
       "description": {
-        "ru": "Подходит для слабых устройств, только всё необходимое",
-        "en": "Suitable for low‑end devices, only the essentials"
+        "ru": "Только всё самое необходимое, подходит для слабых устройств",
+        "en": "Only the most essential things, suitable for low‑end devices."
       }
     },
     {
-      "id": "profile-1786262353983",
+      "id": "profile-1786908214669",
       "name": {
-        "ru": "Экспериментальная сборка🧪",
-        "en": "Experimental pack 🧪"
+        "ru": "Шейдеры",
+        "en": "Shaders"
       },
       "mods": [
-        "mods/BetterF3-11.0.3-NeoForge-1.21.1.jar",
+        "mods/CleanF3-mc1.21.1-0.4.9.jar",
+        "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+        "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
+        "mods/screenshot-to-clipboard-neoforge-1.0.10.jar",
+        "mods/screenshot_viewer-1.3.4-neoforge-mc1.21.1.jar",
+        "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
+        "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "mods/smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
+        "mods/chat_heads-0.15.7-neoforge-1.21.jar",
+        "mods/chatanimation-neoforge-1.3.1+mc1.21.jar",
+        "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+        "mods/Scribble-1.5.1+mc1.21-neoforge.jar",
+        "mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar",
+        "mods/yeetusexperimentus-neoforge-87.0.0.jar",
+        "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
+        "mods/BetterPingDisplay-1.21.1-1.1.jar",
+        "mods/waveycapes-neoforge-1.10.2-mc1.21.1.jar",
+        "mods/LongerChatHistory-neoforge-1.7.jar",
+        "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+        "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
+        "mods/cinematic_respawn-1.21.1-neoforge-1.3.0.jar",
+        "mods/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+        "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+        "mods/create_blueprinted-2.2.1.jar",
+        "mods/ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar",
+        "mods/Stellar View-1.21.1-0.5.2-NeoForge.jar",
+        "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar",
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
-        "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-        "mods/jei-1.21.1-neoforge-19.43.0.393.jar",
-        "mods/ParticleEffects-1.5.0+1.21.1+neoforge.jar",
-        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
-        "mods/chat_heads-0.15.5-neoforge-1.21.jar",
+        "mods/PresenceFootsteps-1.21.1-1.12.0-beta.1-1.21NeoForge.jar",
+        "mods/pfsable-1.0.jar",
+        "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
         "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
         "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar",
-        "mods/emi-1.1.24+1.21.1+neoforge.jar",
-        "mods/emi_ores-1.3+1.21.1+neoforge.jar",
-        "mods/emixx-2.1.0.jar",
-        "mods/emiffect-neoforge-2.1.6+mc1.21.1.jar",
-        "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-        "mods/lambdynamiclights-4.8.10+1.21.1.jar"
+        "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "mods/entity_texture_features_1.21-neoforge-7.1.jar",
+        "mods/constantmusic-neoforge-1.0.6+mc1.21.1.jar",
+        "mods/aeronautics_windsound-1.0.1.jar",
+        "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+        "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
       ],
       "description": {
-        "ru": "Используются шейдеры, возможны нестабильности",
-        "en": "Shaders are used, instability may occur"
+        "ru": "Экспериментальная сборка, пытается совместить Create и Iris",
+        "en": "Experimental build, attempts to combine Create and Iris."
       }
     }
   ],
   "server": {
-    "address": "mr2.joinserver.xyz",
+    "address": "213.152.43.34",
     "port": 25799
   },
-  "defaultProfile": "profile-1786261969308",
-  "bannerCrop": {
-    "x": 0,
-    "y": 0.3813159387088525,
-    "w": 1,
-    "h": 0.2840625
-  },
-  "bannerSha1": "19dd23c7f28a5a68a6fd37f9bdc5e724efffb0e7",
-  "bannerColor": "#92958d",
-  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/banner-19dd23c7f2.jpg"
+  "defaultProfile": "profile-1786905106357"
 }
