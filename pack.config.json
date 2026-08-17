@@ -1,6 +1,6 @@
 {
   "name": "Rplace#Create",
-  "packVersion": "2026.08.16-1",
+  "packVersion": "2026.08.16-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -196,5 +196,14 @@
     "address": "213.152.43.34",
     "port": 25799
   },
-  "defaultProfile": "profile-1786905106357"
+  "defaultProfile": "profile-1786905106357",
+  "bannerCrop": {
+    "x": 0,
+    "y": 0.24395448079658605,
+    "w": 1,
+    "h": 0.5120910384068279
+  },
+  "bannerSha1": "ee0498fcf8428efeea87386e99c9e7cf0d05c0ab",
+  "bannerColor": "#1c1c1c",
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/banner-ee0498fcf8.jpg"
 }

@@ -1,7 +1,7 @@
 {
   "formatVersion": 2,
   "name": "Rplace#Create",
-  "packVersion": "2026.08.16-1",
+  "packVersion": "2026.08.16-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -13006,6 +13006,8 @@
     "address": "213.152.43.34",
     "port": 25799
   },
+  "banner": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/banner-ee0498fcf8.jpg",
+  "bannerColor": "#1c1c1c",
   "optionalMods": [
     {
       "path": "mods/CleanF3-mc1.21.1-0.4.9.jar",
