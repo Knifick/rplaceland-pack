@@ -12784,6 +12784,13 @@
       "size": 76369
     },
     {
+      "path": "mods/rplace-guard-client-1.0.0.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/0688e7006f-mods__rplace-guard-client-1.0.0.jar",
+      "sha1": "0688e7006f822fff63e47e26443ec860a47155a7",
+      "sha256": "1be3c0ceaee80c032330a3186cce17a3045363b9b39b405a151832b5587ef631",
+      "size": 31292
+    },
+    {
       "path": "mods/sable-neoforge-1.21.1-2.0.3.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/f3ba9a4971-mods__sable-neoforge-1.21.1-2.0.3.jar",
       "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756",
