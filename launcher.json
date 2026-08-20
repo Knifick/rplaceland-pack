@@ -1,15 +1,15 @@
 {
   "formatVersion": 1,
-  "latest": "0.6.1",
+  "latest": "0.6.2",
   "minSupported": "0.5.0",
   "notes": {
-    "ru": "Показывается код ошибки при ошибке соединения",
-    "en": "The error code is displayed when the connection fails"
+    "ru": "Исправление ошибок",
+    "en": "Bug Fixes"
   },
-  "publishedAt": "2026-08-19",
+  "publishedAt": "2026-08-20",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.1.exe",
-    "sha256": "8707a25afd9d5ec6b2b44b4c6fd06f99e04d4c58570cc8fbdee5202501403756",
-    "size": 100605780
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.2.exe",
+    "sha256": "8cff1cbca89b1911a39decc2688c49bbb87a26a7271ae192bd2a3148bc27fda3",
+    "size": 100894921
   }
 }
