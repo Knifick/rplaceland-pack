@@ -1,15 +1,15 @@
 {
   "formatVersion": 1,
-  "latest": "0.6.2",
+  "latest": "0.6.4",
   "minSupported": "0.5.0",
   "notes": {
-    "ru": "Исправление ошибок",
-    "en": "Bug Fixes"
+    "ru": "Modrinth исправление",
+    "en": "Modrinth fix"
   },
-  "publishedAt": "2026-08-20",
+  "publishedAt": "2026-08-21",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.2.exe",
-    "sha256": "8cff1cbca89b1911a39decc2688c49bbb87a26a7271ae192bd2a3148bc27fda3",
-    "size": 100894921
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.4.exe",
+    "sha256": "03f653989aba986a6ab027123efe9a71b5338d6b35c5cac0bd159c4fad93e9ea",
+    "size": 100895343
   }
 }
