@@ -1,7 +1,7 @@
 {
   "formatVersion": 2,
   "name": "Rplace#Create",
-  "packVersion": "2026.08.21-1",
+  "packVersion": "2026.08.21-2",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -13,8 +13,8 @@
   "recommendedRam": 6144,
   "minRam": 4096,
   "changelog": {
-    "ru": "Continents удалён из клиентской сборки: генерация мира остаётся на сервере.",
-    "en": "Continents was removed from the client pack; world generation remains on the server."
+    "ru": "Добавлен обязательный клиентский мод HWID (Anti-Alts).",
+    "en": "Added the required HWID (Anti-Alts) client mod."
   },
   "news": [],
   "managedDirs": [
@@ -12614,6 +12614,13 @@
       "sha1": "a558777ef4510da2f4d32ca3da6ac7384c9a9940",
       "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
       "size": 486912
+    },
+    {
+      "path": "mods/hwid_anti_alts-4.1.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/hwid_anti_alts-4.1.jar",
+      "sha1": "6689d5575d0078c25a78428a8fa84a40881cfe59",
+      "sha256": "26da06e1a704dfee115b13192edddb6658325673ca54fed6c630351a8c4024d2",
+      "size": 10689
     },
     {
       "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
