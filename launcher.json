@@ -1,15 +1,15 @@
 {
   "formatVersion": 1,
-  "latest": "0.6.5",
+  "latest": "0.6.6",
   "minSupported": "0.5.0",
   "notes": {
-    "ru": "Новые пресеты сборки и независимый переключатель шейдеров.",
-    "en": "New pack presets and an independent shader toggle."
+    "ru": "Плашка шейдеров всегда отображается без полупрозрачности.",
+    "en": "The shaders card is always shown at full opacity."
   },
   "publishedAt": "2026-08-21",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.5.exe",
-    "sha256": "f735fabaed4edf1a2c5edbffbdcaa18252c6d85b12c176e672304690eacd824c",
-    "size": 100895819
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.6.exe",
+    "sha256": "05cdbd522eb03cf9d0818ceff4606316b4178e851fcbe210abb19c73fc06d53e",
+    "size": 100894134
   }
 }
