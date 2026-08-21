@@ -1,7 +1,7 @@
 {
   "formatVersion": 2,
   "name": "Rplace#Create",
-  "packVersion": "2026.08.21-3",
+  "packVersion": "2026.08.21-4",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -13,8 +13,8 @@
   "recommendedRam": 6144,
   "minRam": 4096,
   "changelog": {
-    "ru": "Обновлены пресеты сборки и добавлен независимый переключатель шейдеров.",
-    "en": "Updated pack presets and added an independent shader toggle."
+    "ru": "Customizable Player Models удалён из клиентской сборки.",
+    "en": "Customizable Player Models was removed from the client pack."
   },
   "news": [],
   "managedDirs": [
@@ -12000,13 +12000,6 @@
       "size": 1222856
     },
     {
-      "path": "mods/CustomPlayerModels-1.21-0.6.27a.jar",
-      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/CustomPlayerModels-1.21-0.6.27a.jar",
-      "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504",
-      "sha256": "b5d3a473998648eefdf646e10a48af95dac57add0df681ca4407e83c716d6c84",
-      "size": 2793136
-    },
-    {
       "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/df25e8cfe0-mods__DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
@@ -13279,10 +13272,6 @@
       "sha1": "3e1a403f9298db23c163dbd85ab68210b4a8c688"
     },
     {
-      "path": "mods/CustomPlayerModels-1.21-0.6.27a.jar",
-      "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504"
-    },
-    {
       "path": "mods/figura-0.1.6+1.21.1-neoforge-mc.jar",
       "sha1": "8405ee52683307711961db8623201240f240f82e"
     }
@@ -13329,7 +13318,6 @@
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
         "mods/modelfix-1.21-1.10.jar",
         "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
-        "mods/CustomPlayerModels-1.21-0.6.27a.jar",
         "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
       ]
     },
@@ -13405,7 +13393,6 @@
         "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
         "mods/modelfix-1.21-1.10.jar",
         "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
-        "mods/CustomPlayerModels-1.21-0.6.27a.jar",
         "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
       ]
     }
