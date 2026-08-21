@@ -1,15 +1,15 @@
 {
   "formatVersion": 1,
-  "latest": "0.6.4",
+  "latest": "0.6.5",
   "minSupported": "0.5.0",
   "notes": {
-    "ru": "Modrinth исправление",
-    "en": "Modrinth fix"
+    "ru": "Новые пресеты сборки и независимый переключатель шейдеров.",
+    "en": "New pack presets and an independent shader toggle."
   },
   "publishedAt": "2026-08-21",
   "windows": {
-    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.4.exe",
-    "sha256": "03f653989aba986a6ab027123efe9a71b5338d6b35c5cac0bd159c4fad93e9ea",
-    "size": 100895343
+    "url": "https://github.com/Knifick/rplaceland-pack/releases/download/launcher/RplaceLauncher-Setup-0.6.5.exe",
+    "sha256": "f735fabaed4edf1a2c5edbffbdcaa18252c6d85b12c176e672304690eacd824c",
+    "size": 100895819
   }
 }
