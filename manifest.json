@@ -1,7 +1,7 @@
 {
   "formatVersion": 2,
   "name": "Rplace#Create",
-  "packVersion": "2026.08.21-2",
+  "packVersion": "2026.08.21-3",
   "minecraft": "1.21.1",
   "loader": {
     "type": "neoforge",
@@ -13,8 +13,8 @@
   "recommendedRam": 6144,
   "minRam": 4096,
   "changelog": {
-    "ru": "Добавлен обязательный клиентский мод HWID (Anti-Alts).",
-    "en": "Added the required HWID (Anti-Alts) client mod."
+    "ru": "Обновлены пресеты сборки и добавлен независимый переключатель шейдеров.",
+    "en": "Updated pack presets and added an independent shader toggle."
   },
   "news": [],
   "managedDirs": [
@@ -12000,6 +12000,13 @@
       "size": 1222856
     },
     {
+      "path": "mods/CustomPlayerModels-1.21-0.6.27a.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/CustomPlayerModels-1.21-0.6.27a.jar",
+      "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504",
+      "sha256": "b5d3a473998648eefdf646e10a48af95dac57add0df681ca4407e83c716d6c84",
+      "size": 2793136
+    },
+    {
       "path": "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files/df25e8cfe0-mods__DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec",
@@ -12012,6 +12019,13 @@
       "sha1": "bf7e7dede99e832de20e191b1f6c11f7a9b9a622",
       "sha256": "8ff438d62e1fce61542945faae45975d823e04bd6e73a07a121ea05ce2f03de7",
       "size": 3163042
+    },
+    {
+      "path": "mods/figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "url": "https://github.com/Knifick/rplaceland-pack/releases/download/pack-files-2/figura-0.1.6%2B1.21.1-neoforge-mc.jar",
+      "sha1": "8405ee52683307711961db8623201240f240f82e",
+      "sha256": "f379147b52953e8013c27ee5b9d1552618b649f80a0cbe974ed0c6e8de89515c",
+      "size": 2253181
     },
     {
       "path": "mods/Iceberg-1.21.1-neoforge-1.3.2.jar",
@@ -13255,14 +13269,34 @@
       "sha1": "c79ab328b2c46068effebdcb3f26e98dc4404cb0",
       "name": "AmbientSounds",
       "description": "Expands minecraft's ambient sounds."
+    },
+    {
+      "path": "mods/modelfix-1.21-1.10.jar",
+      "sha1": "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+    },
+    {
+      "path": "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+      "sha1": "3e1a403f9298db23c163dbd85ab68210b4a8c688"
+    },
+    {
+      "path": "mods/CustomPlayerModels-1.21-0.6.27a.jar",
+      "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504"
+    },
+    {
+      "path": "mods/figura-0.1.6+1.21.1-neoforge-mc.jar",
+      "sha1": "8405ee52683307711961db8623201240f240f82e"
     }
   ],
   "profiles": [
     {
-      "id": "profile-1786905106357",
+      "id": "recommended",
       "name": {
-        "ru": "Полная сборка",
-        "en": "Full pack"
+        "ru": "Рекомендованная сборка",
+        "en": "Recommended pack"
+      },
+      "description": {
+        "ru": "Полный комфортный набор без тяжёлых опциональных эффектов и AmbientSounds.",
+        "en": "A complete comfortable setup without the heaviest optional effects or AmbientSounds."
       },
       "mods": [
         "mods/CleanF3-mc1.21.1-0.4.9.jar",
@@ -13293,40 +13327,40 @@
         "mods/Stellar View-1.21.1-0.5.2-NeoForge.jar",
         "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar",
         "mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-        "mods/entity_model_features-3.2.4-1.21-neoforge.jar",
-        "mods/entity_texture_features_1.21-neoforge-7.1.jar"
-      ],
-      "description": {
-        "ru": "Рекомендуемая сборка, стабильно",
-        "en": "Recommended pack, stable"
-      }
+        "mods/modelfix-1.21-1.10.jar",
+        "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+        "mods/CustomPlayerModels-1.21-0.6.27a.jar",
+        "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
+      ]
     },
     {
-      "id": "profile-1786908048665",
+      "id": "minimal",
       "name": {
         "ru": "Минимальный набор",
-        "en": "Minimalistic pack"
+        "en": "Minimal set"
+      },
+      "description": {
+        "ru": "Только полезные клиентские улучшения для максимальной производительности.",
+        "en": "Only useful client improvements for the best performance."
       },
       "mods": [
-        "mods/CleanF3-mc1.21.1-0.4.9.jar",
-        "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
         "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
-        "mods/smoothscrolling-1.21.1-NeoForge-1.0.1.jar",
-        "mods/chat_heads-0.15.7-neoforge-1.21.jar",
-        "mods/chatanimation-neoforge-1.3.1+mc1.21.jar",
-        "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar",
-        "mods/clientsort-neoforge-2.2.2+1.21.1.jar"
-      ],
-      "description": {
-        "ru": "Только всё самое необходимое, подходит для слабых устройств",
-        "en": "Only the most essential things, suitable for low‑end devices."
-      }
+        "mods/modelfix-1.21-1.10.jar",
+        "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+        "mods/cwb-neoforge-3.0.0+mc1.21.jar",
+        "mods/clientsort-neoforge-2.2.2+1.21.1.jar",
+        "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar"
+      ]
     },
     {
-      "id": "profile-1786908214669",
+      "id": "maximum",
       "name": {
-        "ru": "Шейдеры",
-        "en": "Shaders"
+        "ru": "Максимальная сборка",
+        "en": "Maximum pack"
+      },
+      "description": {
+        "ru": "Всё, что есть в сборке: визуальные эффекты, звук и шейдеры.",
+        "en": "Everything in the pack: visual effects, sound, and shaders."
       },
       "mods": [
         "mods/CleanF3-mc1.21.1-0.4.9.jar",
@@ -13368,13 +13402,34 @@
         "mods/constantmusic-neoforge-1.0.6+mc1.21.1.jar",
         "mods/aeronautics_windsound-1.0.1.jar",
         "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
-        "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
-      ],
-      "description": {
-        "ru": "Экспериментальная сборка, пытается совместить Create и Iris",
-        "en": "Experimental build, attempts to combine Create and Iris."
-      }
+        "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar",
+        "mods/modelfix-1.21-1.10.jar",
+        "mods/fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar",
+        "mods/CustomPlayerModels-1.21-0.6.27a.jar",
+        "mods/figura-0.1.6+1.21.1-neoforge-mc.jar"
+      ]
     }
   ],
-  "defaultProfile": "profile-1786905106357"
+  "defaultProfile": "recommended",
+  "optionalGroups": [
+    {
+      "id": "shaders",
+      "name": {
+        "ru": "Шейдеры",
+        "en": "Shaders"
+      },
+      "description": {
+        "ru": "Включает Iris, Colorwheel и Colorwheel Patcher. После включения выберите шейдерпак в настройках видео Minecraft.",
+        "en": "Enables Iris, Colorwheel, and Colorwheel Patcher. Then choose a shader pack in Minecraft video settings."
+      },
+      "mods": [
+        "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+        "mods/colorwheel-neoforge-1.2.9+mc1.21.1.jar",
+        "mods/colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar"
+      ],
+      "hideInProfiles": [
+        "maximum"
+      ]
+    }
+  ]
 }
